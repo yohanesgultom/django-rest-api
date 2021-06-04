@@ -1,4 +1,4 @@
-Django==2.2.8
+Django==2.2.21
 djangorestframework==3.10.2
 djangorestframework-oauth==1.1.0
 djangorestframework-simplejwt==4.3.0
